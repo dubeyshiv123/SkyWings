@@ -11,5 +11,4 @@ SkyWings-Air, is a highly efficient and reliable **Backend Application** respons
 ### 2. To avoid unintended consequences and accidental duplicate calls during the payment process, the payment gateway implements **Idempotency APIs**.
 
 ## High Level Design
-
-<img src=".Flights-Service/skywings.png"  width="1400" height="550">
+![skywings](https://github.com/dubeyshiv123/SkyWings/assets/132333010/9b20afb6-fb64-43c4-8701-07616491d512)
